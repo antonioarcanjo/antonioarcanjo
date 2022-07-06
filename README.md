@@ -20,5 +20,8 @@
  <a href="https://discord.gg/rqZtpyvqWr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "malito:antonioarcanjoff@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-silva999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+![github contribution grid snake animation](https://github.com/Kasyade/Kasyade/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/Kasyade/Kasyade/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 </div>

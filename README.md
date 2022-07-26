@@ -1,4 +1,4 @@
-## - Olá, eu sou o Antonio, mas alguns me chamam de Kasyade!
+## Olá, eu sou o Antonio, mas alguns me chamam de Kasyade!
 
 <div align="center">
   <a href = " https://github.com/antonioarcanjo "   >

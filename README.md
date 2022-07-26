@@ -19,7 +19,7 @@
   <a href="https://instagram.com/alwaystoxic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/rqZtpyvqWr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:antonioarcanjoff@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-silva999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/antonio-silva999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![github contribuição grid snake animação](https://github.com/antonioarcanjo/antonioarcanjo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)![github contribuição grid snake animação ](https://github.com/antonioarcanjo/antonioarcanjo/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
